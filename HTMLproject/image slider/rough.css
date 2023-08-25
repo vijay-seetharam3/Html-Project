@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+}
+.slider{
+    background-color: blueviolet;
+
+}
+img{
+    width:80%;
+}
+.imageholder{
+    background-color: black;
+    width: fit-content;
+}
